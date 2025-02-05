@@ -1,0 +1,2 @@
+# Trendify
+E-commerce 
